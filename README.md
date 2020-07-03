@@ -1,5 +1,7 @@
-# lihkg-cat
- Scraped forum threads from LIHKG for categorization task. Formatted to use with BERT.
+# lihkg-cat (deprecated)
+**This dataset has been superceded by [lihkg-cat-v2](https://github.com/toastynews/lihkg-cat-v2)**
+
+Scraped forum threads from LIHKG for categorization task. Formatted to use with BERT.
 
 ## Description
 The files contain the concatenation of the subject and first post from forum threads in LIHKG. 
